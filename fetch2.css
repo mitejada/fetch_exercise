@@ -1,0 +1,27 @@
+body{
+  background-color: beige;
+  font-family: monospace;
+}
+
+.button{
+  width: 20%;
+  margin-left: 35%;
+  margin-top: 2%;
+  color: white;
+  background-color: black;
+  font-family: monospace;
+}
+
+h1{
+  display: flex;
+  justify-content: center;
+  margin-right: 8%;
+}
+
+.displayInfo{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin-right: 10%;
+  margin-top: 1%;
+}
